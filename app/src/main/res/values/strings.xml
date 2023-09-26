@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Rentisha App</string>
+    <string name="email" />
+    <string name="Book" />
+    <string name="Fill">Fill</string>
+    <string name="Reserve">Reserve</string>
+</resources>

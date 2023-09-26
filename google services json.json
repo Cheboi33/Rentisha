@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "803617558284",
+    "firebase_url": "https://rentisha-63881-default-rtdb.firebaseio.com",
+    "project_id": "rentisha-63881",
+    "storage_bucket": "rentisha-63881.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803617558284:android:b37257c529beee592c0329",
+        "android_client_info": {
+          "package_name": "com.example.rentishaapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRBdMR7M4-3Ny6kAKneq8AY2_XlRmkKwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
